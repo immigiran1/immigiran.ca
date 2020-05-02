@@ -302,7 +302,7 @@ h1, h2, h3, h4, h5,
         display: inline-block;
         text-decoration: none !important; }
         .site-navbar .site-navigation .site-menu > li > a:hover {
-          color: #32dbc6; }
+          color: #2340C8; }
     .site-navbar .site-navigation .site-menu .has-children {
       position: relative; }
       .site-navbar .site-navigation .site-menu .has-children > a {
@@ -371,8 +371,8 @@ h1, h2, h3, h4, h5,
             padding: 9px 20px;
             display: block; }
             .site-navbar .site-navigation .site-menu .has-children .dropdown > li > a:hover {
-              background: #f4f5f9;
-              color: #25262a; }
+              background: #2340C8;
+              color: #2340C8; }
           .site-navbar .site-navigation .site-menu .has-children .dropdown > li.has-children > a:before {
             content: "\e315";
             right: 20px; }
@@ -383,7 +383,7 @@ h1, h2, h3, h4, h5,
             background: #f4f5f9;
             color: #25262a; }
       .site-navbar .site-navigation .site-menu .has-children:hover > a, .site-navbar .site-navigation .site-menu .has-children:focus > a, .site-navbar .site-navigation .site-menu .has-children:active > a {
-        color: #32dbc6; }
+        color: #2340C8; }
       .site-navbar .site-navigation .site-menu .has-children:hover, .site-navbar .site-navigation .site-menu .has-children:focus, .site-navbar .site-navigation .site-menu .has-children:active {
         cursor: pointer; }
         .site-navbar .site-navigation .site-menu .has-children:hover > .dropdown, .site-navbar .site-navigation .site-menu .has-children:focus > .dropdown, .site-navbar .site-navigation .site-menu .has-children:active > .dropdown {
@@ -433,7 +433,7 @@ h1, h2, h3, h4, h5,
         -o-transition: .3s all ease;
         transition: .3s all ease; }
         .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-close span:hover {
-          color: #25262a; }
+          color: #2340C8; }
     .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-logo {
       float: left;
       margin-top: 10px;

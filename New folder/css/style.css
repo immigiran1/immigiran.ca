@@ -286,7 +286,7 @@ LOADER
 }
  .top-header .navbar .navbar-collapse ul li a:hover, .top-header .navbar .navbar-collapse ul li a:focus {
      background: transparent;
-     color: red;
+     color: #7B98E1;
      border-radius: ;
 }
  .search_icon.nav-link img {
@@ -338,10 +338,10 @@ LOADER
      margin-top: 5px;
 }
  .navbar-toggler:hover {
-     border: 2px solid #BB4747;
+     border: 2px solid #2340C8;
 }
  .navbar-toggler:hover span{
-     background: #BB4747;
+     background: #2340C8;
 }
 /* search bar */
  .search-box {
