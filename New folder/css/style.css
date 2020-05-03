@@ -47,7 +47,7 @@
 }
  h4 {
      font-size: 21px;
-     color: #07528d;
+     color: #007bff;
      margin-top: 25px;
 }
  h5 {
@@ -1132,7 +1132,7 @@ LOADER
  .left-contact h2{
      font-size: 22px;
      font-weight: 500;
-     padding-bottom: 30px;
+     padding-bottom: 300px;
 }
  .cont-line{
      overflow: hidden;
@@ -1148,12 +1148,14 @@ LOADER
      color: #fff;
      border-radius: 100%;
      background: #0892fd;
+     
 }
  .dit-right h4 {
+    
      font-size: 16px;
      color: #3a4149;
      font-weight: 500;
-     margin: 0;
+     margin right: 0;
      padding: 0;
 }
  .dit-right p {
@@ -1449,17 +1451,19 @@ LOADER
 }
  .innerpage_banner {
      background-color: #f9f9f9;
-     min-height: 150px;
-     text-align: center;
+     min-height: 300px;
+     text-align: right;
      background-image: url("../images/slider-01.jpg");
      background-size: cover;
      background-position: center center;
 }
  .innerpage_banner h2 {
-     margin: 55px 0 0;
+
+     margin: 35px 0 0;
+     margin-right: 55%;
      padding: 0;
      font-size: 30px;
-     text-align: left;
+     text-align: center;
      font-weight: 500;
      position: relative;
 }
