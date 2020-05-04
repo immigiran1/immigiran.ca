@@ -423,10 +423,17 @@ LOADER
      height: 100%;
      z-index: 2;
 }
+
+
+
+
+
+
+
  .lbox-details h1{
      font-size: 54px;
      font-family: 'Montserrat', sans-serif;
-     color: #ffffff;
+     color: #ffffff;     
      font-weight: 600;
      position: relative;
      z-index: 3;
