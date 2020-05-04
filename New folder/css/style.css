@@ -1224,7 +1224,7 @@ LOADER
      color: red;
 }
  .footer-box {
-     background: #072745;
+     background: black;
      padding: 10px 0;
      text-align: center;
 }
@@ -1428,7 +1428,7 @@ LOADER
      margin: 0 5px;
 }
  .footer_bottom {
-     background: #05223d;
+     background: black;
      padding: 5px 0;
 }
  .footer_bottom p.crp {
